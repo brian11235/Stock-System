@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
-		<groupId>com.greglturnquist</groupId>
+		<groupId>com.stock</groupId>
 		<artifactId>react-and-spring-data-rest</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
